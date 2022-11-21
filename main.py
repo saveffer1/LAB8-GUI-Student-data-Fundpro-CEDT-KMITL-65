@@ -3,7 +3,6 @@ from tkinter import ttk
 import os
 from tkinter import messagebox
 import time
-from turtle import bgcolor
 
 std_id = ''
 subject_name = ''
